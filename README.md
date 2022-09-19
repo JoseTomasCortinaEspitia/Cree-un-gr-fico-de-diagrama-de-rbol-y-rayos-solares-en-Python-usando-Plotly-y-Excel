@@ -4,7 +4,7 @@ En este tutorial, le mostraré cómo crear un diagrama de mapa de árbol y rayos
 Los datos provienen directamente de un archivo de Excel. Puede hacer todos los cambios en el archivo de Excel y, después de ejecutar el código nuevamente, tendrá su Treemap/Sunburst actualizado. El gráfico Treemap/Sunburst es interactivo y se guardará como un archivo HTML.
 
 Videotutorial
-Video de Youtube
+https://www.youtube.com/watch?v=10enchtesBo&list=PL7QI8ORyVSCb8UtcXlGkdz1miYKHWCA1j&index=1
 
 Salida de muestra
 Salida de muestra
