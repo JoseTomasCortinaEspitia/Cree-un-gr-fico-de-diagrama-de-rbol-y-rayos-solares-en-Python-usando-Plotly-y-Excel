@@ -13,9 +13,9 @@ Requisitos
 
 abrirpyxl==3.0.9
 
-gráficamente==4.14.3
+plotly==4.14.3
 
-pandas == 1.3.5
+pandas== 1.3.5
 
 Autor
 
