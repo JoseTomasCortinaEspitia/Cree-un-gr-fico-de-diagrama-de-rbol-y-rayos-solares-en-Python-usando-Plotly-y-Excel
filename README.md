@@ -10,16 +10,18 @@ Salida de muestra
 Salida de muestra
 
 Requisitos
+
 abrirpyxl==3.0.9
+
 gráficamente==4.14.3
+
 pandas == 1.3.5
+
 Autor
+
+
 Sven de Codificar es divertido
+
 YouTube: https://youtube.com/c/CodingIsFun
+
 Sitio web: https://pythonandvba.com
-ko-fi
-
-Retroalimentación
-Si tiene algún comentario, comuníquese conmigo a contact@pythonandvba.com
-
-Logo
