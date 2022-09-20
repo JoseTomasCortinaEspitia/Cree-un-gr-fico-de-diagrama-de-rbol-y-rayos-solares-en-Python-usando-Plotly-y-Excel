@@ -11,7 +11,7 @@ Salida de muestra
 
 Requisitos
 
-abrirpyxl==3.0.9
+openpyxl==3.0.9
 
 plotly==4.14.3
 
